@@ -1,2 +1,2 @@
-# smart-study-webdite
+# smart-study-website
 It is for student
